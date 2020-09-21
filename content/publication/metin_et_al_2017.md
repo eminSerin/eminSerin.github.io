@@ -18,7 +18,7 @@ authors = ["Baris Metin","Ayse Goktepe","Bernis Kaya","Emin Serin","Cumhur Tas",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "EEG findings during flow state"
+publication = "*The Journal of Neurobehavioral Sciences*"
 
 # Abstract and optional shortened version.
 abstract = "Flow state emerges when a person engages in autotelic activities, which are both enjoyable and challenging. While studies generally focused on qualitative data of flow state, a few were conducted on psychophysiological basis of it. Present study aimed to investigate EEG correlates of flow. Twenty participants preliminarily filled out Flow Short Scale Turkish Version and completed a ping-pong game at two levels (slow-boring and fast-flow) during EEG recording. The results revealed that theta power was significantly greater for all regions during flow condition compared to non-flow condition and delta power was significantly greater during flow on central and parietal regions. There is no difference between flow/non-flow conditions for coherence. A positive correlation was found between delta and theta powers and subscales scores of Flow Short Scale. The increases in these theta and delta frequency bands could be important indicators of flow state. The coherence results revealed that interhemispheric synchronization was not modified by flow. If confirmed with multiple tasks and in clinical groups, EEG correlates of flow state could be useful increase performance and well-being."

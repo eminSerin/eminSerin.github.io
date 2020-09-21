@@ -1,6 +1,6 @@
 ---
 title: NBS-Predict
-summary: The prediction-based extension of Network-based Statistic
+summary: The prediction-based extension of Network-based Statistic.
 tags:
 date: "2019-06-01"
 
