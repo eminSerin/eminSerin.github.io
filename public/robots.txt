@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://eminserin.github.io/sitemap.xml
