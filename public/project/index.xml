@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Emin Serin</title>
+    <link>https://eminserin.github.io/project/</link>
+      <atom:link href="https://eminserin.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Emin Serin, 2020</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eminserin.github.io/images/icon_hu0c8741da834a6a6f3bc1553b25419046_14175_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://eminserin.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>NBS-Predict</title>
+      <link>https://eminserin.github.io/project/nbs-predict/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://eminserin.github.io/project/nbs-predict/</guid>
+      <description>&lt;p&gt;NBS-Predict is a prediction-based extension of the network-based statistic. In NBS-Predict, we combine Network-based Statistics (Zalesky et al., 2010) and feature engineering for connectome-based prediction. Briefly, NBS-Predict allows identifying graph components with associated prediction accuracies by combining a graph theory with machine learning algorithms (e.g., support vector machine, decision tree) in a cross-validation structure. Additionally, NBS-Predict comes with a graphical user interface (GUI) that does not require any programming expertise. As such, it allows for a broad audience of researchers to potentially benefit from advanced but easy to interpret machine-learning applications to facilitate the search for biomarkers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
