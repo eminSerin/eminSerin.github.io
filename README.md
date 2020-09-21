@@ -1,1 +1,1 @@
-Hugo code for the academic personal website: https://eminserin.netlify.app
+Hugo code for the academic personal website: https://www.eminserin.net
