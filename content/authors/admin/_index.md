@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Neuroscience
+    institution: Einstein Center for Neurosciences Berlin - Charite Universtätsmedizin Berlin
+    year: Present
   - course: MSc in Neuroscience
     institution: Berlin School of Mind and Brain - Humboldt Universtät zu Berlin
     year: 2019
