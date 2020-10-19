@@ -68,7 +68,7 @@ social:
 email: ""
 ---
 
-I am an upcoming PhD Fellow in Neuroscience at Einstein Center for Neurosciences Berlin. I have received my Master of Science in Neuroscience from the Berlin School of Mind and Brain. My master's thesis focused on developing a toolbox that utilizes machine learning and graph theory to analyze resting-state functional MRI data.
+I am a PhD Fellow in Neuroscience at Einstein Center for Neurosciences Berlin. I have received my Master of Science in Neuroscience from the Berlin School of Mind and Brain. My master's thesis focused on developing a toolbox that utilizes machine learning and graph theory to analyze resting-state functional MRI data.
 
 I am particularly interested in the extraction of hidden biomarkers of psychiatric and neurological diseases from the brain images using machine learning methods to help to define diseases and aid diagnosis and prognosis. 
 
