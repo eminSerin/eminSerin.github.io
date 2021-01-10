@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: MSc in Neuroscience
+role: PhD Fellow in Neuroscience
 
 # Organizations/Affiliations
 organizations:
-- name: Humboldt Universtät zu Berlin
+- name: Einstein Center for Neurosciences Berlin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
