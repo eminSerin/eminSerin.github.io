@@ -16,8 +16,6 @@ role: PhD Fellow in Neuroscience
 organizations:
 - name: Einstein Center for Neurosciences Berlin
   url: ""
-- name: Bernstein Center for Neurosciences Berlin
-  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include clinical neuroscience, precision psychiatry, machine learning and deep learning. 
