@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/abs/pii/S092549271630227X?via%3Dihub"
+url_pdf = "https://psycnet.apa.org/record/2022-82052-001"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
