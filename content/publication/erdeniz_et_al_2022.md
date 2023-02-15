@@ -1,6 +1,6 @@
 +++
 title = "Bodily Self-Consciousness in Dreams Questionnaire (BSD-Q) and its relation to waking dissociative experience"
-date = 2022
+date = 2022-10-30
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
