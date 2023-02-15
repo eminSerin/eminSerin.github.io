@@ -71,10 +71,7 @@ social:
 email: ""
 ---
 
-I am a PhD Fellow in Neuroscience at Einstein Center for Neurosciences Berlin. I have received my Master of Science in Neuroscience from the Berlin School of Mind and Brain. My master's thesis focused on developing a toolbox that utilizes machine learning and graph theory to analyze resting-state functional MRI data.
+I am a PhD candidate in Predictive Clinical Neuroscience working on applying machine learning in psychiatry at **Charité, Berlin**. I have a Master of Science in Neuroscience from the Berlin School of Mind and Brain. My master's thesis focused on using machine learning and graph theory to analyze resting-state functional MRI data, and I am now dedicated to extracting hidden biomarkers of psychiatric and neurological diseases from brain images using advanced machine learning methods. My goal is to use these biomarkers to define diseases, aid diagnosis, and improve prognosis.
 
-I am particularly interested in the extraction of hidden biomarkers of psychiatric and neurological diseases from the brain images using machine learning methods to help to define diseases and aid diagnosis and prognosis. 
-
-I enjoy programming, exploring information from data, and cooking!
-
+Outside of my work, I have a passion for computer science, psychiatry, technology, and blockchain, and I am always eager to talk about these topics. When I'm not researching, I enjoy programming, exploring data, and cooking.
 
